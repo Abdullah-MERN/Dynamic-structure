@@ -5,8 +5,8 @@ var typeWriterElement = document.getElementById("typewriter");
 
 // The TextArray:
 var textArray = [
-  "Helping you build your dreams",
-  "We help deliver within budget and time",
+  "Building Excellence, One Brick at a Time",
+  "On Time. On Budget. Every Time",
 ];
 
 // You can also do this by transfering it through a data-attribute
